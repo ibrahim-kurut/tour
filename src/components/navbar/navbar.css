@@ -1,0 +1,19 @@
+.lists {
+    display: flex;
+    align-items: center;
+    height: 60px;
+    margin: 0;
+
+}
+
+.lists li {
+    margin: 0 15px;
+    padding: 10px;
+    list-style-type: none;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+
+.lists li:hover {
+    border-bottom: 1px solid rgb(255, 255, 255);
+}

@@ -1,0 +1,9 @@
+.card {
+    width: 25%;
+}
+
+.card img {
+    width: 100%;
+    background-position: center;
+    background-size: contain;
+}
